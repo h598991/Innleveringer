@@ -1,5 +1,5 @@
 package no.hvl.dat100;
-/* Obligatorisk oppgave 2, Fredrik McKibben
+/* Obligatorisk oppgave 1, Fredrik McKibben
  * Struktur: 
  * Lese inn Bruttoinntekt, If statement finner rett trinn,
  * beregne trinnskatt, lese ut skattenivå og beregnet trinnskatt.
