@@ -1,6 +1,6 @@
 package no.hvl.dat100;
 /* Obligatorisk oppgave 2, Fredrik McKibben
- * Struktur:
+ * Struktur: 
  * Innlesing av poengsum. If statement avgjør karakter. 
  * Skrive ut antall poeng og karakter i dialogboks.
  * Gi feilmelding ved ugyldig poengsum (a&b)

@@ -1,6 +1,6 @@
 package no.hvl.dat100;
 /* Obligatorisk oppgave 3, Fredrik McKibben
- * Struktur:
+ * Struktur: 
  * Innlesing av tall, If statement avgjør om tall er større enn 0.
  * Ved gyldig tall ganges dette opp mot økende tall i for loop, intill n. 
  * Utskrift av svar etter loop.
